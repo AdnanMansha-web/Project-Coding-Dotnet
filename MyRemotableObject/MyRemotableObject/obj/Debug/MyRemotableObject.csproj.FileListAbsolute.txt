@@ -1,0 +1,16 @@
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\MyRemotableObject\MyRemotableObject\bin\Debug\MyRemotableObject.dll
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\MyRemotableObject\MyRemotableObject\bin\Debug\MyRemotableObject.pdb
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\MyRemotableObject\MyRemotableObject\bin\Debug\MySql.Data.dll
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\MyRemotableObject\MyRemotableObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\MyRemotableObject\MyRemotableObject\obj\Debug\MyRemotableObject.dll
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\MyRemotableObject\MyRemotableObject\obj\Debug\MyRemotableObject.pdb
+G:\MyRemotableObject\MyRemotableObject\bin\Debug\MyRemotableObject.dll
+G:\MyRemotableObject\MyRemotableObject\bin\Debug\MyRemotableObject.pdb
+G:\MyRemotableObject\MyRemotableObject\bin\Debug\MySql.Data.dll
+G:\MyRemotableObject\MyRemotableObject\obj\Debug\MyRemotableObject.dll
+G:\MyRemotableObject\MyRemotableObject\obj\Debug\MyRemotableObject.pdb
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\MyRemotableObject\MyRemotableObject\bin\Debug\MyRemotableObject.dll
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\MyRemotableObject\MyRemotableObject\bin\Debug\MyRemotableObject.pdb
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\MyRemotableObject\MyRemotableObject\bin\Debug\MySql.Data.dll
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\MyRemotableObject\MyRemotableObject\obj\Debug\MyRemotableObject.dll
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\MyRemotableObject\MyRemotableObject\obj\Debug\MyRemotableObject.pdb

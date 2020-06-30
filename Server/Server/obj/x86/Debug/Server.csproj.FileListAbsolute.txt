@@ -1,0 +1,24 @@
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Server\Server\bin\Debug\Server.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Server\Server\bin\Debug\Server.pdb
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Server\Server\bin\Debug\MyRemotableObject.dll
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Server\Server\bin\Debug\MySql.Data.dll
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Server\Server\bin\Debug\MyRemotableObject.pdb
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\Server.pdb
+G:\Server\Server\obj\x86\Debug\Server.exe
+G:\Server\Server\obj\x86\Debug\Server.pdb
+G:\Server\Server\bin\Debug\Server.exe
+G:\Server\Server\bin\Debug\Server.pdb
+G:\Server\Server\bin\Debug\MyRemotableObject.dll
+G:\Server\Server\bin\Debug\MySql.Data.dll
+G:\Server\Server\bin\Debug\MyRemotableObject.pdb
+G:\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Server\Server\bin\Debug\Server.exe
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Server\Server\bin\Debug\Server.pdb
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Server\Server\bin\Debug\MyRemotableObject.dll
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Server\Server\bin\Debug\MySql.Data.dll
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Server\Server\bin\Debug\MyRemotableObject.pdb
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Server\Server\obj\x86\Debug\Server.pdb

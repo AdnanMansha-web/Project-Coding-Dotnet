@@ -1,0 +1,30 @@
+c:\users\windows 7\documents\visual studio 2012\Projects\GUI_Hotel_Reservation\GUI_Hotel_Reservation\bin\Debug\GUI_Hotel_Reservation.exe.config
+c:\users\windows 7\documents\visual studio 2012\Projects\GUI_Hotel_Reservation\GUI_Hotel_Reservation\bin\Debug\GUI_Hotel_Reservation.exe
+c:\users\windows 7\documents\visual studio 2012\Projects\GUI_Hotel_Reservation\GUI_Hotel_Reservation\bin\Debug\GUI_Hotel_Reservation.pdb
+c:\users\windows 7\documents\visual studio 2012\Projects\GUI_Hotel_Reservation\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.csprojResolveAssemblyReference.cache
+c:\users\windows 7\documents\visual studio 2012\Projects\GUI_Hotel_Reservation\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.Form1.resources
+c:\users\windows 7\documents\visual studio 2012\Projects\GUI_Hotel_Reservation\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.Properties.Resources.resources
+c:\users\windows 7\documents\visual studio 2012\Projects\GUI_Hotel_Reservation\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.csproj.GenerateResource.Cache
+c:\users\windows 7\documents\visual studio 2012\Projects\GUI_Hotel_Reservation\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.exe
+c:\users\windows 7\documents\visual studio 2012\Projects\GUI_Hotel_Reservation\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.pdb
+c:\users\windows 7\documents\visual studio 2012\Projects\GUI_Hotel_Reservation\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.Reservation.resources
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\GUI_Hotel_Reservation\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.Delete.resources
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\GUI_Hotel_Reservation\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.Edit.resources
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\GUI_Hotel_Reservation\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.Report.resources
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\GUI_Hotel_Reservation\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.Search.resources
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\bin\Debug\GUI_Hotel_Reservation.exe.config
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\bin\Debug\GUI_Hotel_Reservation.exe
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\bin\Debug\GUI_Hotel_Reservation.pdb
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\bin\Debug\MyRemotableObject.dll
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\bin\Debug\MySql.Data.dll
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\bin\Debug\MyRemotableObject.pdb
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.Properties.Resources.resources
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.csproj.GenerateResource.Cache
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.exe
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.pdb
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\bin\Debug\itextsharp.dll
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\bin\Debug\itextsharp.pdfa.dll
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\bin\Debug\itextsharp.xtra.dll
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\bin\Debug\itextsharp.xml
+C:\Users\WINDOWS 7\Documents\Visual Studio 2012\Projects\SDT Project\Client\GUI_Hotel_Reservation\obj\Debug\GUI_Hotel_Reservation.Client.resources
