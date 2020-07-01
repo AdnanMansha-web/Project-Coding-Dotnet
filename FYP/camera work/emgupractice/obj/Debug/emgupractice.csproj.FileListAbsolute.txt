@@ -1,0 +1,13 @@
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\emgupractice\emgupractice\bin\Debug\emgupractice.exe.config
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\emgupractice\emgupractice\bin\Debug\emgupractice.exe
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\emgupractice\emgupractice\bin\Debug\emgupractice.pdb
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\emgupractice\emgupractice\bin\Debug\DynamicDotNetTWAIN.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\emgupractice\emgupractice\bin\Debug\WebCam_Capture.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\emgupractice\emgupractice\bin\Debug\DynamicDotNetTWAIN.xml
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\emgupractice\emgupractice\obj\Debug\emgupractice.Form1.resources
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\emgupractice\emgupractice\obj\Debug\emgupractice.Properties.Resources.resources
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\emgupractice\emgupractice\obj\Debug\emgupractice.csproj.GenerateResource.Cache
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\emgupractice\emgupractice\obj\Debug\emgupractice.exe.licenses
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\emgupractice\emgupractice\obj\Debug\emgupractice.exe
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\emgupractice\emgupractice\obj\Debug\emgupractice.pdb
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\emgupractice\emgupractice\obj\Debug\emgupractice.csprojResolveAssemblyReference.cache

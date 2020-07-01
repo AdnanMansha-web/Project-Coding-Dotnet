@@ -1,0 +1,78 @@
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.exe.config
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.exe
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.pdb
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Accord.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Accord.Imaging.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Accord.Math.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\AForge.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\AForge.Imaging.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\AForge.Math.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Emgu.CV.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Emgu.CV.ML.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Emgu.CV.UI.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Emgu.Util.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\MySql.Data.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\WebCam_Capture.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Accord.MachineLearning.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Accord.Statistics.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\ZedGraph.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Accord.pdb
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Accord.Imaging.pdb
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Accord.Math.pdb
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\AForge.xml
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\AForge.Imaging.xml
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\AForge.Math.xml
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Emgu.CV.xml
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Emgu.CV.ML.xml
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Emgu.CV.UI.xml
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Emgu.Util.xml
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Accord.Statistics.pdb
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.fingerprints.resources
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.exe
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\DynamicDotNetTWAIN.dll
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\DynamicDotNetTWAIN.xml
+C:\Users\yashir\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.exe.licenses
+F:\FYP\Project code\Project\Project\bin\Debug\Project.exe.config
+F:\FYP\Project code\Project\Project\obj\Debug\Project.exe
+F:\FYP\Project code\Project\Project\obj\Debug\Project.pdb
+F:\FYP\Project code\Project\Project\bin\Debug\Project.exe
+F:\FYP\Project code\Project\Project\bin\Debug\Project.pdb
+F:\FYP\Project code\Project\Project\bin\Debug\MySql.Data.dll
+F:\FYP\Project code\Project\Project\bin\Debug\Accord.MachineLearning.dll
+F:\FYP\Project code\Project\Project\bin\Debug\Accord.Statistics.dll
+F:\FYP\Project code\Project\Project\bin\Debug\ZedGraph.dll
+F:\FYP\Project code\Project\Project\bin\Debug\Accord.pdb
+F:\FYP\Project code\Project\Project\bin\Debug\Accord.Imaging.pdb
+F:\FYP\Project code\Project\Project\bin\Debug\Accord.Math.pdb
+F:\FYP\Project code\Project\Project\bin\Debug\AForge.xml
+F:\FYP\Project code\Project\Project\bin\Debug\AForge.Imaging.xml
+F:\FYP\Project code\Project\Project\bin\Debug\AForge.Math.xml
+F:\FYP\Project code\Project\Project\bin\Debug\DynamicDotNetTWAIN.xml
+F:\FYP\Project code\Project\Project\bin\Debug\Emgu.CV.xml
+F:\FYP\Project code\Project\Project\bin\Debug\Emgu.CV.GPU.xml
+F:\FYP\Project code\Project\Project\bin\Debug\Emgu.CV.ML.xml
+F:\FYP\Project code\Project\Project\bin\Debug\Emgu.CV.OCR.xml
+F:\FYP\Project code\Project\Project\bin\Debug\Emgu.CV.Stitching.xml
+F:\FYP\Project code\Project\Project\bin\Debug\Emgu.CV.UI.xml
+F:\FYP\Project code\Project\Project\bin\Debug\Emgu.Util.xml
+F:\FYP\Project code\Project\Project\bin\Debug\Accord.MachineLearning.pdb
+F:\FYP\Project code\Project\Project\bin\Debug\Accord.Statistics.pdb
+F:\FYP\Project code\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\FYP\Project code\Project\Project\obj\Debug\Project.fingerprints.resources
+F:\FYP\Project code\Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\FYP\Project code\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+F:\FYP\Project code\Project\Project\obj\Debug\Project.exe.licenses
+E:\Education\FYP\Project code\Project\Project\bin\Debug\Project.exe.config
+E:\Education\FYP\Project code\Project\Project\obj\Debug\Project.exe
+E:\Education\FYP\Project code\Project\Project\obj\Debug\Project.pdb
